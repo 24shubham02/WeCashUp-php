@@ -39,7 +39,7 @@
 	$merchant_secret = 'YOUR_MERCHANT_SECRET';    // ****************** PUT YOUR MERCHANT SECRET HERE (you can get it in your WeCashUp merchant dashboard) ***************
 			
 	// Create and initialize variables to be sent to confirm the that the ongoing transaction is associated with the current merchant
-	
+	//test
 	$received_transaction_merchant_secret = null;//create an empty received_transaction_merchant_secret
 	$received_transaction_uid = null;//create an empty received_transaction_uid 
 	$received_transaction_status  = null;//create an empty received_transaction_status
